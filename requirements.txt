@@ -1,0 +1,20 @@
+# Python environment for DTP_master_analysis.ipynb
+# Versions are those used in the analysis; pin to match your environment.
+numpy>=2.0
+pandas>=2.2
+scipy>=1.14
+matplotlib>=3.10
+seaborn
+scanpy==1.12.1
+anndata
+gseapy>=1.1.11
+statsmodels>=0.15
+scikit-learn
+lifelines
+squidpy
+rpy2
+requests
+networkx
+openpyxl
+chembl_webresource_client
+# R / Bioconductor (Section 3 TCGA, optional): survival, survminer, curatedTCGAData, cBioPortalData
